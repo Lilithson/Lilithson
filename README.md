@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Lilithson
 - 👀 I’m interested in software development and AI.
-- 🌱 I’m currently learning Python (in my school), C# (for project development), Java and Rust (for hobby).
+- 🌱 I’m currently learning Python (for school), C, Java and Rust (for hobby).
 - 💞️ I’m looking to collaborate on game-dev projects, currently working on one with @IlterisDagi.
 - 😄 Pronouns: He/Him
   <!--- - 📫 How to reach me ...
